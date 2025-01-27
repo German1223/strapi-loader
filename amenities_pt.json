@@ -1,0 +1,303 @@
+[
+  {
+    "id": 8,
+    "documentId": "kdxatbbf5rc0ufoajqravnwc",
+    "name": "Armários & Duche",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 4,
+    "documentId": "bzbtlhurcndbgz01yhjbx6e5",
+    "name": "Funcionários Amáveis",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 1,
+    "documentId": "mpgj5hch557dmg99d3kwryej",
+    "name": "Impressão",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 27,
+    "documentId": "lzoz9w73rv8qc4q1kvvpvln2",
+    "name": "Mesas Elevatórias",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 11,
+    "documentId": "ytvakv6t6kfrpkan9wk0ctsn",
+    "name": "WiFi",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 2,
+    "documentId": "umypmoz12s1nwen04sw3kq7f",
+    "name": "Localização Central",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 28,
+    "documentId": "s2xlu3co46moybfdtv0537ao",
+    "name": " Água Potável Gratuita",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 10,
+    "documentId": "f05r3tlvmr6kjcrrwrm7uyx9",
+    "name": "Benefícios para Membros",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 23,
+    "documentId": "jih3378dnx2purndrxgrqh45",
+    "name": "Áreas de Saída",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 24,
+    "documentId": "ebctz63qptl9yu5b9gvwvqt4",
+    "name": "Centro da Cidade",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 30,
+    "documentId": "eqmsmqixkg1xgo3r2zhn2fs4",
+    "name": "Armários pessoais",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 29,
+    "documentId": "hggcyufr99zai84kl8ysbe32",
+    "name": "Aquecimento",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 12,
+    "documentId": "zlu85apr2987lvyay9cko275",
+    "name": "Amigável para Animais",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 42,
+    "documentId": "t4uk0ahp55u2tlswer328u6b",
+    "name": "Piscina",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 6,
+    "documentId": "xrujng7ngnywmtukf1b8eqze",
+    "name": "Área de Lazer",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 45,
+    "documentId": "x8364dvvo6llodg41bw3p5kb",
+    "name": "Campo de Voleibol",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 44,
+    "documentId": "zw15x3m3y3hgqhidlzig73zf",
+    "name": "Massagens",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 22,
+    "documentId": "iuvle5jyknn0icambvmuua3x",
+    "name": "Estacionamento",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 15,
+    "documentId": "enquhx8fpzpyyznc48w8zm3p",
+    "name": "Cozinha",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 32,
+    "documentId": "ykpd0lao6jeg4ze6slivpykn",
+    "name": "Cozinha de Catering",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 7,
+    "documentId": "ezhywvgk4aszqy37tvjq9drx",
+    "name": "Espaço para Eventos",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 14,
+    "documentId": "p520ubrnqk6zwa3xmkawja3i",
+    "name": "Café",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 33,
+    "documentId": "tlknzxx9jbwadjy6dynxwj0z",
+    "name": "Chá Grátis",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 31,
+    "documentId": "mzz163rmc7386xmirqcp3ech",
+    "name": "Cabine Telefónica",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 25,
+    "documentId": "gl3vxmbg2eefxgb9rj4b6751",
+    "name": "Serviço de Sanduíche",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 41,
+    "documentId": "spanh4fkmitb0v6e76u0a366",
+    "name": "Vinho Gratuito",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 36,
+    "documentId": "ygqt9sihl5o2al5x2mregg5f",
+    "name": "Sala de Meditação",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 16,
+    "documentId": "wory8rzqldexcc6uqwtv0d5i",
+    "name": "Estacionamento de Bicicletas",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 17,
+    "documentId": "x9tb87g5vd7icakmruow0tr2",
+    "name": "Ar Condicionado",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 19,
+    "documentId": "o4y1r57m49bo0zecyl9q143x",
+    "name": "Estúdio de Yoga",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 3,
+    "documentId": "pn3r2loq2fdl6g1squ3xha3c",
+    "name": "Café, Chá e Fruta",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 13,
+    "documentId": "fyhvoncp6gler8n2jm3jp1e7",
+    "name": "Acessibilidade de Cadeiras de Rodas",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 26,
+    "documentId": "hz7ka6ioazfr3pppo1m618i2",
+    "name": "Acesso 24",
+    "allowFilter": true,
+    "locale": "pt"
+  },
+  {
+    "id": 35,
+    "documentId": "qqzu0wov09mtkde5i386mspr",
+    "name": "Snacks Grátis",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 18,
+    "documentId": "b8oqj472akurwpmilbn6z5qg",
+    "name": "Terraço Exterior",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 37,
+    "documentId": "q62niw5rvzvhxz6xtc0x8kys",
+    "name": "Plugin para Carros Eléctricos",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 21,
+    "documentId": "m0r1uunpl1h1f1a4uvted8ae",
+    "name": "Café Grátis",
+    "allowFilter": true,
+    "locale": "pt"
+  },
+  {
+    "id": 38,
+    "documentId": "nwtr9927mvky3rau6856hvkn",
+    "name": "Ginásio",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 43,
+    "documentId": "z4zvmcytqhrfp49tmxb4xlpm",
+    "name": "Trampolim",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 34,
+    "documentId": "jw5fe0f8w2usn8banflbgaoe",
+    "name": "Cerveja Grátis",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 40,
+    "documentId": "k3esi3i8gajaakfj3mqoxowd",
+    "name": "Cuidado Infantil",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 39,
+    "documentId": "zvpmwa1szj3tt9wsqzs9vafz",
+    "name": "Restaurante",
+    "allowFilter": null,
+    "locale": "pt"
+  },
+  {
+    "id": 20,
+    "documentId": "pjmgr9occlx683q6vtqe6r81",
+    "name": "Espaço para Eventos para Aluguer",
+    "allowFilter": null,
+    "locale": "pt"
+  }
+]
